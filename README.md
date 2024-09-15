@@ -18,7 +18,7 @@ To run the Calculator App, you'll need to have Python installed on your machine 
 1. **Clone the Repository**:
 
     ```sh
-    git clone https://github.com/yourusername/calculator-app.git
+    git clone [https://github.com/yourusername/calculator-app.git](https://github.com/brandistone/Calculator-App/tree/main)
     cd calculator-app
     ```
 
